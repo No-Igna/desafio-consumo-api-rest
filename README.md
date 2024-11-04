@@ -2,7 +2,7 @@
 
 para ver el proyecto desplegado visitar el siguiente enlace:
 
-[desafio-consumo-api-rest.vercel.app](https://desafio-consumo-api-rest.vercel.app)
+https://desafio-consumo-api-rest.vercel.app
 
 ## Recommended IDE Setup
 
