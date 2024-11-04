@@ -1,6 +1,8 @@
 # desafio-consumo-api-rest
 
-This template should help get you started developing with Vue 3 in Vite.
+para ver el proyecto desplegado visitar el siguiente enlace:
+
+desafio-consumo-api-rest.vercel.app
 
 ## Recommended IDE Setup
 
